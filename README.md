@@ -3,17 +3,19 @@ A social networking webapp which allows users to give hilarious/entertaining nic
 
 
 ## Directory Structure:
-
--URF
-	-URF (contains virtualenv realated information)
-		-bin
-		-include
-		-lib
-		-local
-	-code
-		-URF (URF django **project**)
-			-templates/ * (Contains HTML content)
-			-manage.py
-			-URF/ * (URF django **app**) 
-
-	-README.md (This file)
+```
+-URF|
+    |-URF (contains virtualenv realated information)
+    |   |-bin
+    |   |-include
+    |   |-lib
+    |   |-local
+    |
+    |-code
+    |   |-URF (URF django **project**)
+    |   |   |-templates/ * (Contains HTML content)
+    |   |   |-manage.py
+    |   |   |-URF/ * (URF django **app**) 
+    |
+    |-README.md (This file)
+```
