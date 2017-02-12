@@ -12,10 +12,10 @@ A social networking webapp which allows users to give hilarious/entertaining nic
     |   |-local
     |
     |-code
-    |   |-URF (URF django **project**)
+    |   |-URF (URF django project)
     |   |   |-templates/ * (Contains HTML content)
     |   |   |-manage.py
-    |   |   |-URF/ * (URF django **app**) 
+    |   |   |-URF/ * (URF django app) 
     |
     |-README.md (This file)
 ```
